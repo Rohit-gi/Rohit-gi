@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Rohit-gi
-- 👀 I’m interested in Data Science & Business Analytics
-- 🌱 I’m currently learning Data analysis & Machine learning
+- 👀 I’m interested in learning Web Develpment & Data Analytics
+- 🌱 I’m currently learning Web Development frameworks
 - 💞️ I’m looking to collaborate on good projects
 - 📫 How to reach me :
      i.rohit003@gmail.com
