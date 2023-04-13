@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Rohit-gi
-- 👀 I’m interested in learning Web Develpment & Data Analytics
-- 🌱 I’m currently learning Web Development frameworks
+- 👀 I’m interested in learning Web Develpment & Digital Marketing
+- 🌱 I’m currently learning Javascript frameworks
 - 💞️ I’m looking to collaborate on good projects
 - 📫 How to reach me :
      i.rohit003@gmail.com
